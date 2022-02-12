@@ -1,2 +1,2 @@
 # Tableau
-This repository contains all the machine learning projects I have done.
+This repository contains the Tableau projects I have done in raw form.
